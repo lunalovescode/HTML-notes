@@ -2,5 +2,5 @@
 
 Learning **BASIC** tags!
 
-<title> - *defines a title for the document*
+<title></title> - *defines a title for the document*
  
